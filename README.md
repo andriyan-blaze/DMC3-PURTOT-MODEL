@@ -7,6 +7,6 @@ Porting all models available on the internet to game DMC3 (PS2, Ubisoft, HDC).
 # Tutorials / Guide Add-on
 - [Cek Here](https://youtu.be/---)
 # Thanks, to!
-- [Gil-Unx](https://github.com/JADERLINK](https://github.com/gil-unx )
+- [Gil-Unx](https://github.com/gil-unx)
 
 
