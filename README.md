@@ -5,7 +5,7 @@ Porting all models available on the internet to game DMC3 (PS2, Ubisoft, HDC).
 # Fitur / Panel
 - 
 # Tutorials / Guide Add-on
-- [Cek Here](https://youtu.be/---)
+- [Cek Here](https://youtu.be/OIKWrWZV_Kk?si=caryH6aIqVvouDLi)
 # Thanks, to!
 - [Gil-Unx](https://github.com/gil-unx)
 
